@@ -1,0 +1,5 @@
+langchain-community 
+beautifulsoup4
+chromadb
+langchain
+langchain-groq
